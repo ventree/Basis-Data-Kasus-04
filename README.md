@@ -64,6 +64,3 @@ FROM RincianBiaya
 GROUP BY Kelompok;
 
 
-
-
-Would you like me to generate this as a **ready-to-download `README.md` file** so you can directly upload it to your GitHub repository folder (`Website/`)?
