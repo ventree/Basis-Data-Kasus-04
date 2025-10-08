@@ -10,12 +10,6 @@ This project is a simple PHP web application created for the Database Practicum 
 • Automatically fetches and displays data from MySQL views  
 • Organized folder structure for easy maintenance  
 
-## Author
-
-Name: Arsya Vanessa
-NIM: 2491397116
-Program: D4 24I / Manajemen Informatika
-
 ## Notes
 
 This project was developed for educational purposes in the Database Practicum Case 04.
